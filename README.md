@@ -6,4 +6,4 @@
 
 2. Создание диаграммы Ганта для организации проектной деятельности по разработке корпоративного сайта и анализ потенциальных рисков. Создание отчета-репозитория в GitHub, оформление с использованием разметки Markdown.
 
-[Ссылки][https://docs.google.com/document/d/1fZjp4PI-DKHuMaFgBzXXppXTVuJhRirnI0NWXgr3ytI/edit?usp=sharing]
+[Ссылки](https://docs.google.com/document/d/1fZjp4PI-DKHuMaFgBzXXppXTVuJhRirnI0NWXgr3ytI/edit?usp=sharing)
